@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSd5FhNyYLkn8sNPQBt6QLsWIzW2CQGG4mtw&s);
+    color: black;
+    
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    margin: 100px auto;
+    /* padding: 25px 50px; */
+}
+
+#block{
+    background-color: rgb(18, 171, 188);
+    margin: 200px 100px;
+    border: 5px solid red;
+    
+}
